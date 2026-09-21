@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://me1an9e.github.io/sitemap.xml
